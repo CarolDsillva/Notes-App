@@ -1,16 +1,10 @@
-# Notes App
 
-A Flutter project for note taking.
+# Notes App Flutter
 
-## Getting Started
+Notes is a notes app built with Flutter. Organize your ideas effortlessly, and create checklists with ease. 
 
-This project is a starting point for a Flutter application.
+# Hi, I'm Carol! 👋
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 About Me
+I am an engineering student from India with a profound interest in design. Softwares: Python, React js, HTML/CSS and MySQL
